@@ -1,0 +1,43 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+   .inline-block {
+    display: inline-block;
+    padding: 15px;
+    background-color: darkgrey;
+  }
+  .left {
+    height: 500px;
+    float: left;
+    background-color: rgb(15, 191, 250);
+    width: 30%;
+    text-align: center;
+  }
+  .card1 {
+    background-color: #c48181;
+    height: 30%;
+    width: 100%;
+  }
+  .card1 p{
+    margin: 0;
+  }
+    .card2 {
+    background-color: #943535;
+    height: 70%;
+    width: 100%;
+  }
+  .right {
+    height: 500px;
+    float: right;
+    background-color: rgb(238, 172, 49);
+    width: 70%;
+    text-align: center;
+  }
+
+  /* target the class of inline-block below */
+  
+  /* target the class of .left below */
+  
+  /* target the class of .right below */
+  
